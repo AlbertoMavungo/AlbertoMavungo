@@ -17,10 +17,10 @@
   ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
-  <a  href="https://www.instagram.com/yspsaopaulo/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a  href="https://www.instagram.com/dong_alberto7/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.com/channels/@me" ><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a ><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style](https://www.linkedin.com/in/alberto-mavungo/)=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/alberto-mavungo/" ><img src="[https://img.shields.io/badge/-LinkedIn-%230077B5?style](https://www.linkedin.com/in/alberto-mavungo/)=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AlbertoMavungo/AlbertoMavungo/blob/output/github-contribution-grid-snake.svg)
 
